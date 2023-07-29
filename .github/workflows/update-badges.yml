@@ -3,7 +3,7 @@ name: Bages Update
 on:
   schedule:
     # Runs at 2am UTC
-    - cron: "40 * * * *"
+    - cron: "27 1 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
