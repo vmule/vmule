@@ -12,7 +12,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Updating badges.." # optional
-          CREDLY_USER: vito-mule # optional, but default will use the same from github
-          CREDLY_SORT: RECENT
+          CREDLY_USER: vito-mule
