@@ -14,3 +14,4 @@ jobs:
         with:       
           COMMIT_MESSAGE: "Updating badges.." # optional
           CREDLY_USER: vito-mule
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
