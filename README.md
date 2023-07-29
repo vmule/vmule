@@ -1,4 +1,4 @@
-[![Update badges](https://github.com/vmule/vmule/actions/workflows/badges-update.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/badges-update.yml)
+[![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
 
 ### Hi there 👋
 
