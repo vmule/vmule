@@ -14,5 +14,4 @@ jobs:
         with:       
           COMMIT_MESSAGE: "Updating badges.." # optional
           CREDLY_USER: vito-mule
-          CREDLY_SORT: POPULAR
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
