@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+![My Skills](https://skillicons.dev/icons?i=kubernetes,python,go,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
