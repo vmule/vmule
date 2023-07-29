@@ -1,6 +1,16 @@
 [![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
 
-### Hi there 👋
+### Hi, I'm Vito Mulè
+
+<img src="https://komarev.com/ghpvc/?username=vmule" alt="vmule" />
+
+### Connect with me
+
+<a href="https://linkedin.com/in/vmule" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href= "mailto: mulevito@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=dark" width="500"></a>
 
 <!--
 **vmule/vmule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +43,4 @@ Here are some ideas to get you started:
 <a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/leaderkey" /></a>
 <a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/plugin-manager" /></a>
 
-Checkout: https://github.com/vmule/dotfiles
+For more detail about my nvim setup checkout: https://github.com/vmule/dotfiles
