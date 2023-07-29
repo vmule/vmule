@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-# Nvim setup
+# nvim setup
 
 <a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/plugins" /></a>
 <a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/leaderkey" /></a>
