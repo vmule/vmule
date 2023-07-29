@@ -1,6 +1,6 @@
 [![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
 
-### Hi, I'm Vito Mulè
+# Hi, I'm Vito Mulè
 
 <img src="https://komarev.com/ghpvc/?username=vmule" alt="vmule" />
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:badges-->
 
 
-# Skills
+# Skillset
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,python,go,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
 
 .
