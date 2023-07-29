@@ -1,3 +1,5 @@
+[![Update badges](https://github.com/vmule/vmule/actions/workflows/badges-update.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/badges-update.yml)
+
 ### Hi there 👋
 
 <!--
