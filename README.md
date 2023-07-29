@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
-
-
-
+# Skills
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,python,go,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
