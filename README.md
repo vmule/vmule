@@ -26,3 +26,11 @@ Here are some ideas to get you started:
 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,python,go,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
+
+# Nvim setup
+
+<a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/plugins" /></a>
+<a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/leaderkey" /></a>
+<a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/plugin-manager" /></a>
+
+Checkout: https://github.com/vmule/dotfiles
