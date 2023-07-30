@@ -11,10 +11,10 @@
 <a href= "mailto: mulevito@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=ffffff00" width="500" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=ffffff00&custom_title=Github%20Stats" width="500" ></a>
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&theme=blueberry&hide_border=true&bg_color=ffffff00" height="190"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&theme=blueberry&hide_border=true&bg_color=ffffff00" height="185"></a>
 
 
 # Certifications
