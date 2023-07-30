@@ -11,7 +11,10 @@
 <a href= "mailto: mulevito@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=nightowl" width="500"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="500" ></a>
+
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&theme=transparent&hide_border=true" height="190"></a>
 
 <!--
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&themese=dark" width="300"></a>
