@@ -1,19 +1,13 @@
-<!--
-[![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
---> 
 # Hi, I'm Vito Mulè
-
-<img src="https://komarev.com/ghpvc/?username=vmule" alt="vmule" />
-
 ### Connect with me
-
 <a href="https://linkedin.com/in/vmule" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href= "mailto: mulevito@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 
+#
+<!--
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=ffffff00&custom_title=Github%20Stats" width="500" ></a>
-
-
+--> 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&theme=blueberry&hide_border=true&bg_color=ffffff00" height="185"></a>
 
 
@@ -56,3 +50,8 @@
 <a href="https://dotfyle.com/vmule/dotfiles"><img src="https://dotfyle.com/vmule/dotfiles/badges/plugin-manager" /></a>
 
 For more detail about my nvim setup checkout: https://github.com/vmule/dotfiles
+
+#
+<img src="https://komarev.com/ghpvc/?username=vmule" alt="vmule" />
+
+[![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
