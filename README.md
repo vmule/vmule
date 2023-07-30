@@ -1,5 +1,6 @@
+<!--
 [![Update badges](https://github.com/vmule/vmule/actions/workflows/update-badges.yml/badge.svg)](https://github.com/vmule/vmule/actions/workflows/update-badges.yml)
-
+--> 
 # Hi, I'm Vito Mulè
 
 <img src="https://komarev.com/ghpvc/?username=vmule" alt="vmule" />
