@@ -8,7 +8,7 @@
 <a href="https://github.com/vmule"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmule&layout=compact&hide=shell&theme=tokyonight&hide_border=false&bg_color=ffffff00" height="185"></a>
 <a href="https://leetcode.com/vmule"><img src="https://leetcard.jacoblin.cool/vmule?theme=dark&border=3)" height="185" ></a>
 
-</a> <img src="https://leetcode-badge-showcase.vercel.app/api?username=vmule&theme=tokyonight" alt="LeetCode Badges" height="350"  />
+<a href="https://leetcode.com/vmule"><img src="https://leetcode-badge-showcase.vercel.app/api?username=vmule&theme=tokyonight" alt="LeetCode Badges" width="340" ></a>
 <!--
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=ffffff00&custom_title=Github%20Stats" width="500" ></a>
 --> 
