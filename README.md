@@ -10,8 +10,8 @@
 
 <a href="https://leetcode.com/vmule"><img src="https://leetcard.jacoblin.cool/vmule?theme=dark&border=1" height="185" ></a>
 
-<a href="https://leetcode.com/vmule"><img src="https://leetcode-badge-showcase.vercel.app/api?username=vmule&theme=tokyonight&border=border" alt="LeetCode Badges" width="340" ></a>
 <!--
+<a href="https://leetcode.com/vmule"><img src="https://leetcode-badge-showcase.vercel.app/api?username=vmule&theme=tokyonight&border=border" alt="LeetCode Badges" width="340" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vmule&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=ffffff00&custom_title=Github%20Stats" width="500" ></a>
 --> 
 
