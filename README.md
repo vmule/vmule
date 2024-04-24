@@ -22,7 +22,7 @@
 
 
 # Skillset
-![My Skills](https://skillicons.dev/icons?i=kubernetes,python,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
+![My Skills](https://skillicons.dev/icons?i=kubernetes,python,cpp,bash,neovim,git,github,jenkins,docker,prometheus,grafana,linux,aws)
 
 <!--
 ,
