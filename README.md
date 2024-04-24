@@ -12,7 +12,7 @@
 
 <a href="https://leetcode.com/vmule"><img src="https://leetcode-badge-showcase.vercel.app/api?username=vmule&theme=tokyonight&border=border" alt="LeetCode Badges" width="340" ></a>
 
-# Certifications
+# Stats
 <!--START_SECTION:badges-->
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/101x101/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/f92db743-8563-479b-8f6e-3510e037948a "CKAD: Certified Kubernetes Application Developer")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4bb8b108-094b-4216-8e42-2c342d79ee83 "CKA: Certified Kubernetes Administrator")
