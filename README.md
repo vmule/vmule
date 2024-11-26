@@ -14,8 +14,8 @@
 
 # Stats
 <!--START_SECTION:badges-->
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/101x101/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/f92db743-8563-479b-8f6e-3510e037948a "CKAD: Certified Kubernetes Application Developer")
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4bb8b108-094b-4216-8e42-2c342d79ee83 "CKA: Certified Kubernetes Administrator")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/101x101/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/f92db743-8563-479b-8f6e-3510e037948a "CKAD: Certified Kubernetes Application Developer")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/104x104/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/4bb8b108-094b-4216-8e42-2c342d79ee83 "CKA: Certified Kubernetes Administrator")
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/110x110/images/7b3e8069-a4f3-4286-9eda-c146bf80d5ea/1_LFCS-600x600.png)](http://www.credly.com/badges/185d2a8b-900d-4b6d-9b7a-8c86621e27c9 "LFCS: Linux Foundation Certified Systems Administrator")
 [![LFCE: Linux Foundation Certified Engineer](https://images.credly.com/size/110x110/images/c5bd4ec6-ff12-4d66-8ee3-a8260c6ca9c1/1_LFCE-600x600.png)](http://www.credly.com/badges/5ae6c9a1-62c7-4fea-b458-42220198e228 "LFCE: Linux Foundation Certified Engineer")
 <!--END_SECTION:badges-->
